@@ -1,7 +1,7 @@
 # mt5763_a1
 This project is an analysis of chemical composition of cannabis plants in different soil types. 
 
-Its aim was to answe three questions:
+Its aim was to answer three questions:
 
 -Do the data indicate differences in the elemental composition of the cannabis leaves grown in different soil types?
 
